@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zohaib</h1>
+<h1 align="center">hey, i'm Zohaib</h1>
 <h3 align="center">i'm very boring</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaiblazuli&label=Profile%20views&color=0e75b6&style=flat" alt="zohaiblazuli" /> </p>
