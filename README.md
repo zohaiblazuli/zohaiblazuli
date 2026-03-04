@@ -1,8 +1,11 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="Zohaib" width="900"/>
-</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#0B0E17">
+<tr><td align="center">
 
-<h3 align="center">Stats</h3>
+<img src="./assets/header.svg" alt="Zohaib" width="900"/>
+
+<br>
+
+<h3 align="center"><font color="#A8C7FA">Stats</font></h3>
 
 <p align="center">
   <a href="https://github.com/zohaiblazuli">
@@ -19,7 +22,7 @@
 
 
 
-<h3 align="center">Tech Stack</h3>
+<h3 align="center"><font color="#A8C7FA">Tech Stack</font></h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -31,14 +34,19 @@
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5DE4C7,50:C4A7E7,100:A8C7FA&height=80&section=footer" width="900"/>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zohaiblazuli&color=5DE4C7&style=flat-square&label=views" alt="Views"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5DE4C7,50:C4A7E7,100:A8C7FA&height=80&section=footer" width="900"/>
 
-<p align="center">
-  <sub>themed with <a href="https://github.com/zohaiblazuli/profilify">profilify</a></sub>
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=zohaiblazuli&color=5DE4C7&style=flat-square&label=views" alt="Views"/>
+
+<br>
+
+<sub><font color="#6E7681">themed with <a href="https://github.com/zohaiblazuli/profilify"><font color="#5DE4C7">profilify</font></a></font></sub>
+
+<br><br>
+
+</td></tr>
+</table>
