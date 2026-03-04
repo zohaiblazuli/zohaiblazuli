@@ -4,54 +4,51 @@
 
 <p align="center">
   <a href="https://github.com/zohaiblazuli">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+my+profile!+🦇" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=300&size=18&duration=4000&pause=1000&color=6E7681&center=true&vCenter=true&random=false&width=500&lines=your average tech bro" alt="Typing SVG" />
   </a>
 </p>
 
----
+<br>
 
-## 📊 GitHub Stats
+### Stats
 
 <p align="center">
   <a href="https://github.com/zohaiblazuli">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zohaiblazuli&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&ring_color=bd93f9" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaiblazuli&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zohaiblazuli&show_icons=true&hide_border=true&bg_color=0B0E17&title_color=A8C7FA&icon_color=5DE4C7&text_color=6E7681&ring_color=5DE4C7" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaiblazuli&layout=compact&hide_border=true&bg_color=0B0E17&title_color=A8C7FA&text_color=6E7681" alt="Top Languages"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zohaiblazuli&theme=dracula&hide_border=true&background=282a36&ring=bd93f9&fire=ff79c6&currStreakLabel=bd93f9" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zohaiblazuli&theme=dracula&no-frame=true&no-bg=true&column=7" alt="Trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zohaiblazuli&hide_border=true&background=0B0E17&ring=5DE4C7&fire=C4A7E7&currStreakLabel=A8C7FA&sideLabels=6E7681&currStreakNum=A8C7FA&sideNums=A8C7FA&dates=6E7681" alt="Contribution Streak"/>
 </p>
 
 
-## 🛠️ Tech Stack
+
+<br>
+
+### Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Skills"/>
+    <img src="https://skillicons.dev/icons?i=python,docker&theme=dark" alt="Skills"/>
   </a>
 </p>
 
 
-## 🤝 Connect With Me
+
+
+
+<br>
 
 <p align="center">
-
-
-
-
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zohaiblazuli&color=bd93f9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5DE4C7,50:C4A7E7,100:A8C7FA&height=80&section=footer" width="900"/>
 </p>
 
 <p align="center">
-  <sub>🦇 Profile themed with <a href="https://github.com/zohaiblazuli/profilify">Profilify</a> — Dracula theme</sub>
+  <img src="https://komarev.com/ghpvc/?username=zohaiblazuli&color=5DE4C7&style=flat-square&label=views" alt="Views"/>
+</p>
+
+<p align="center">
+  <sub>themed with <a href="https://github.com/zohaiblazuli/profilify">profilify</a></sub>
 </p>
