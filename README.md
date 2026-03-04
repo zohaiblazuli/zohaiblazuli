@@ -2,12 +2,6 @@
   <img src="./assets/header.svg" alt="Zohaib" width="900"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/zohaiblazuli">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=18&duration=4000&pause=1000&color=6E7681&center=true&vCenter=true&random=false&width=500&lines=your average tech bro" alt="Typing SVG" />
-  </a>
-</p>
-
 <h3 align="center">Stats</h3>
 
 <p align="center">
