@@ -28,3 +28,6 @@
 <div align="center">
   <img src="assets/links.svg" alt="Social badges" width="748" height="34" />
 </div>
+
+
+(some stats are wrong - working on a fix)
